@@ -1,0 +1,90 @@
+{
+    "12": {
+        "name": "Rodgers",
+        "position": "QB",
+        "yards": 0,
+        "rushAttempts": 0,
+        "passAttempts": 0,
+        "passCompletions": 0,
+        "touchdowns": 0,
+        "interceptions": 0,
+        "fumbles": 0
+    },
+    "17": {
+        "name": "Adams",
+        "position": "WR",
+        "yards": 0,
+        "rushAttempts": 0,
+        "passAttempts": 0,
+        "passCompletions": 0,
+        "touchdowns": 0,
+        "interceptions": 0,
+        "fumbles": 0
+    },
+    "33": {
+        "name": "Jones",
+        "position": "RB",
+        "yards": 0,
+        "rushAttempts": 0,
+        "passAttempts": 0,
+        "passCompletions": 0,
+        "touchdowns": 0,
+        "interceptions": 0,
+        "fumbles": 0
+    },
+    "83": {
+        "name": "Valdes-Scantling",
+        "position": "WR",
+        "yards": 0,
+        "rushAttempts": 0,
+        "passAttempts": 0,
+        "passCompletions": 0,
+        "touchdowns": 0,
+        "interceptions": 0,
+        "fumbles": 0
+    },
+    "55": {
+        "name": "Smith",
+        "position": "OLB",
+        "yards": 0,
+        "rushAttempts": 0,
+        "passAttempts": 0,
+        "passCompletions": 0,
+        "touchdowns": 0,
+        "interceptions": 0,
+        "fumbles": 0
+    },
+    "26": {
+        "name": "Savage",
+        "position": "DB",
+        "yards": 0,
+        "rushAttempts": 0,
+        "passAttempts": 0,
+        "passCompletions": 0,
+        "touchdowns": 0,
+        "interceptions": 0,
+        "fumbles": 0
+    },
+    "2": {
+        "name": "Crosby",
+        "position": "K",
+        "yards": 0,
+        "rushAttempts": 0,
+        "passAttempts": 0,
+        "passCompletions": 0,
+        "touchdowns": 0,
+        "interceptions": 0,
+        "fumbles": 0
+    },
+    "6": {
+        "name": "Scott",
+        "position": "P",
+        "yards": 0,
+        "rushAttempts": 0,
+        "passAttempts": 0,
+        "passCompletions": 0,
+        "touchdowns": 0,
+        "interceptions": 0,
+        "fumbles": 0
+    }
+}
